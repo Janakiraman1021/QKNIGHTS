@@ -1,0 +1,24 @@
+/* Your CSS styles go here */
+
+/* Proper alignment for features */
+.features {
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature {
+    text-align: center;
+    max-width: 300px;
+    margin: 20px;
+}
+
+.feature h2 {
+    font-size: 24px;
+}
+
+.feature p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+/* Additional CSS styles as needed */
